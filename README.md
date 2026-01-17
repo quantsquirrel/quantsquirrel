@@ -2,8 +2,9 @@
 
 <div align="center">
 
+![ALPHA RESEARCH](https://raw.githubusercontent.com/quantsquirrel/quantsquirrel/57a4057/assets/alpha-research-badge.svg)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-C15F3C?style=for-the-badge&logo=anthropic&logoColor=white)
-![ALPHA RESEARCH](https://raw.githubusercontent.com/quantsquirrel/quantsquirrel/main/assets/alpha-research-badge.svg)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
