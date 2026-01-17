@@ -1,3 +1,14 @@
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Quantitative Research](https://img.shields.io/badge/Quantitative_Research-FC5214?style=for-the-badge&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-C15F3C?style=for-the-badge&logo=anthropic&logoColor=white)
+
+</div>
+
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
