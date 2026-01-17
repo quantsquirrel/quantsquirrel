@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Quantitative Research](https://img.shields.io/badge/Quantitative_Research-FC5214?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-C15F3C?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
