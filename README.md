@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![BRAIN Research](https://raw.githubusercontent.com/quantsquirrel/quantsquirrel/main/assets/brain-research-badge.svg)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-C15F3C?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
